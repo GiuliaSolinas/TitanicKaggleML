@@ -1,4 +1,8 @@
 # Intro
+This file lists the main reflections about modelling tasks and statistics that I incurred in the project. These are organized into the following sections:
+- Scaling
+- Packages for classification analysis
+- Post-hoc analysis
 
 ## Notes about scaling
 You do not always need to transform or scale the data in advance when using logistic regression on a training dataset. However, there are some cases where it may be helpful to do so.
